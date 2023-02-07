@@ -1,0 +1,23 @@
+Чтобы сохранить .py в .exe, нужно открыть Командную строку. Там написать: cd C:\Users\miros\AppData\Local\Programs\Python\Python310-32\Scripts
+Чтобы преобразовать файл нужно всё закинуть по пути выше. Команда: pyinstaller --onefile --noconsole -F -i "favicon.ico" file.py # На выходе 1 exe файл с фавиконкой
+
+PIP
+pip install module --verbose # Показывает все дейтвия pip (помогает при импорте библиотеки из .cpp файлов)
+
+
+PYINSTALLER
+pyinstaller --noconsole --onefile -i "vartexter.ico" --add-data "C:\Users\miros\AppData\Local\Programs\Python\Python310-32\Lib\site-packages\tkinterdnd2;tkinterdnd2" VarTexter_v.2.0.py
+
+
+Temperature CPU !! LIKEADMINSHELL
+
+get-wmiobject msacpi_thermalzonetemperature -namespace "root/wmi"
+
+!!!WARNING DANGER!!!
+net user администратор /active:yes
+net user администратор password
+
+!GET-IP!
+netstat-Aan все ip адреса пингов
+
+37.145.174.112
